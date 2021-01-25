@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "netlink.h": "c",
+        "errno.h": "c",
+        "typeinfo": "cpp"
+    }
+}
